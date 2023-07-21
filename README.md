@@ -1,0 +1,2 @@
+# ACLAnthologyMetadataExtractor
+ACL Anthologyから論文のメタデータをスクレイピングするPythonスクリプト
